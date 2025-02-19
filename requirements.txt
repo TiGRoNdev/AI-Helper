@@ -1,0 +1,17 @@
+# SPDX-License-Identifier: LGPL-2.1-or-later
+
+Pillow
+validators
+aiohttp[speedups]
+psycopg
+beautifulsoup4
+six
+sqlalchemy[asyncio]
+sqlmodel
+alembic
+aiohttp_socks
+lxml
+webdriver-manager
+gunicorn
+cryptography
+bcrypt
